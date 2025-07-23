@@ -1,0 +1,16 @@
+streamlit
+google-generativeai
+openai-whisper
+sounddevice 
+numpy==1.26.4
+playsound
+edge-tts
+deepface
+tf-keras==2.19.0
+nest_asyncio
+pygame
+transformers
+gtts
+librosa
+soundfile
+deep-translator

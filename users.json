@@ -1,0 +1,22 @@
+{
+    "sharanyap158@gmail.com": {
+        "name": "sharanya",
+        "email": "sharanyap158@gmail.com",
+        "age": 21,
+        "gender": "Female",
+        "dementia": "Yes",
+        "password": "ca8395fce79fadd0ff863db4e05133237aec481fb18e6315978d9e80b0a1da2b",
+        "security_question": "What city were you born in?",
+        "security_answer": "hyderabad"
+    },
+    "jaswanth@gmail.com": {
+        "name": "jaswanth",
+        "email": "jaswanth@gmail.com",
+        "age": 19,
+        "gender": "Male",
+        "dementia": "Yes",
+        "password": "bbb76a0d9af7d90ef19cab3330cfbe4c8ae802797f28bae5f104aece15c93c72",
+        "security_question": "What is your favorite food?",
+        "security_answer": "biryani"
+    }
+}
