@@ -91,7 +91,7 @@ If you like this project, please ⭐ star the repository on GitHub — it really
 
 📧 Email: sharanyap158@gmail.com
 
-🔗 LinkedIn: (Add your LinkedIn profile link)
+🔗 LinkedIn: https://www.linkedin.com/in/sharanya-pamulaparthi-80499132b
 =======================================================================================================================================================
 🧾 License
 MIT License
